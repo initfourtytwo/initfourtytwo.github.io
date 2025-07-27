@@ -37,4 +37,6 @@ The point of these models, whether in code or in life, isn't to find a "perfect"
 
 It's about having the humility to admit your model is wrong and the discipline to keep trying to make it just a little bit better.
 
+---
+
 **Question for you:** If your life were a model, would it be learning—or just memorizing?
