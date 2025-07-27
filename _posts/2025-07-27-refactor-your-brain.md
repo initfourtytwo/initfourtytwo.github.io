@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Refactor Your Brain, Not Just Your Code"
+title: 'Refactor Your Brain, Not Just Your Code'
 category: input
 comments: true
 ---
@@ -8,8 +8,7 @@ comments: true
 <p align="center">
   <img src="/assets/certs/learning.png" alt="Course Certificate" width="400">
 </p>
-<sub> This post is based on the Coursera course <a href="https://www.coursera.org/learn/learning-how-to-learn" target="_blank">Learning How to Learn</a> by Dr. Barbara Oakley and Dr. Terrence Sejnowski.
-</sub>
+<sub> This post is based on the Coursera course <a href="https://www.coursera.org/learn/learning-how-to-learn" target="_blank">Learning How to Learn</a> by Dr. Barbara Oakley and Dr. Terrence Sejnowski.</sub>
 
 <br>
 

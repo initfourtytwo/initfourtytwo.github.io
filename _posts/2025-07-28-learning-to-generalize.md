@@ -1,18 +1,17 @@
 ---
 layout: post
-title: "Learning to Generalize as a Dev and as a Dad"
+title: 'Learning to Generalize as a Dev and as a Dad'
 category: input
 comments: true
 ---
 <p align="center">
   <img src="/assets/certs/ml01.png" alt="Course Certificate" width="400">
 </p>
-<sub> This post is based on the Coursera course <a href="https://www.coursera.org/learn/machine-learning" target="_blank">Supervised Machine Learning: Regression and Classification</a> by Andrew Ng.
-</sub>
+<sub> This post is based on the Coursera course <a href="https://www.coursera.org/learn/machine-learning" target="_blank">Supervised Machine Learning: Regression and Classification</a> by Andrew Ng. </sub>
 
 <br>
 
-I’m two years into my career as a software engineer and two weeks into my new role as a father. My days are a frantic context switch between debugging asynchronous data pipelines and deciphering the non-blocking I/O of a newborn. I’m finding more overlap than I expected.
+I’m two years into my journey as a software engineer and two weeks into my new role as a father. While I’m not actively coding these days, the mindset I built as a developer hasn’t left me. My days now feel like a constant context switch between the async thinking I once used for debugging data pipelines and the non-blocking I/O of a newborn. Surprisingly, I’m finding more overlap than I expected.
 
 Andrew Ng’s lecture on the fundamentals of machine learning isn’t just a technical manual; it’s a toolkit of shockingly relevant mental models. Two concepts, in particular, have felt less like theory and more like a documentary of my current life.
 
