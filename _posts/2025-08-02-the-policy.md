@@ -51,4 +51,6 @@ This exploration is critical. As the lecture explains, if a model, through rando
 
 Life isn't a problem to be solved once. It's a dynamic environment that demands a constantly evolving policy. It’s about taking what you know and making the best decision you can, while always reserving a small dose of humility—the humility to act randomly, just in case you're wrong about everything.
 
+---
+
 **Question for you:** How much of your life is spent exploiting what you know, and how much time do you dedicate to exploring what you don't? What's your epsilon?
